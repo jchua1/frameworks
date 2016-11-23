@@ -740,7 +740,7 @@ button {
   margin-left: auto;
   margin-right: auto; }
   .small-centered, .small-centered:last-child:not(:first-child) {
-    float: none;
+    /*float: none;*/
     clear: both; }
 
 .small-uncentered,
